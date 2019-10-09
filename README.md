@@ -1,6 +1,6 @@
 # crt.sh
 
-Handy tool to find and probe subdomains from crt sh
+Handy tool to find and probe subdomains from [crt.sh](https://crt.sh)
 
 Depends on [jq](https://github.com/stedolan/jq) and [httprobe](https://github.com/tomnomnom/httprobe)
 
