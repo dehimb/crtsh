@@ -1,5 +1,8 @@
 #!/bin/bash
 #
+# Handy tool to find and probe subdomains from crt.sh
+# Depends on jq and httprobe
+#
 #author dehimb
 
 RESULTS_PATH=`pwd`/crtsh
